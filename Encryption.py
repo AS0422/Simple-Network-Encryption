@@ -1,3 +1,4 @@
+# Simple XOR encryption function
 def Encryption(string, key):
     
     string =[ord(char)for char in string]
